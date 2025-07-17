@@ -12,5 +12,6 @@ yarn-error.log*
 
 # 忽略本地配置
 .env.local
+.svn/
 .vscode/
 .DS_Store
