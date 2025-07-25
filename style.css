@@ -6,3 +6,6 @@ textarea {
 .el-textarea__inner {
   font-size: 16px !important;
 }
+.monospace {
+  font-family: monospace,SFMono-Regular, Menlo, Consolas,;
+}
